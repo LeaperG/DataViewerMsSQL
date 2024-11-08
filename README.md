@@ -26,6 +26,13 @@
 
 <h1><b>Подключение</b></h1>
 
+![image](https://github.com/user-attachments/assets/c3668dad-e33d-4c6c-a05a-6bed9932245d)
+
+![image](https://github.com/user-attachments/assets/7088ab7d-5c7a-4672-99d1-bf6bba58b539)
 
 
 <h1><b>Вывод данных</b></h1>
+
+![image](https://github.com/user-attachments/assets/7689427b-9f8b-4afd-a797-f5df37d39946)
+
+![image](https://github.com/user-attachments/assets/bbb11019-5ce2-4f27-8a95-2adcd2377735)
